@@ -1,0 +1,11 @@
+{  
+
+	"managers": {
+		"person_1": {
+			"name": "Ivan",
+   			"age": 28
+		},
+		"person_2": {
+			"name": "Alex",
+			"age": 32
+};

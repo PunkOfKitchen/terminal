@@ -1,0 +1,25 @@
+1) pwd
+2) mkdir All_folder
+3) cd All_folder
+4) mkdir comp_1 comp_2 comp_3
+5) cd comp_1
+6) touch global_data.txt documentary.txt person.txt students.json workers.json
+7) mkdir info_folder other data
+8) ls -la
+9) nano global_data.txt
+10) cntl+o, enter
+11) cntl+x
+12) cd ..
+13) mv comp_1/{person.txt,documentary.txt} comp_2
+14) cp comp_1/{global_data.txt, students.json} comp_3
+15) find -name workers.json !!!!
+16) grep "Alex" workers.json
+17) head -n 5 workers.json
+18) tail -n 6 workers.json
+19) less workers.json
+20) data
+
+*
+
+1) curl http://162.55.220.72:5005
+2) bush script.sh

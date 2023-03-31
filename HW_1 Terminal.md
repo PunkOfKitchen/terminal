@@ -1,5 +1,5 @@
-# Home worl Terminal
+# Homework Terminal
 |Задание|Решение|
 |:---|:---|
-|1|что-то|
+|1. Посмотреть где я|`pwd`|
 

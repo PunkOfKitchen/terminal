@@ -12,7 +12,7 @@
 12) cd ..
 13) mv comp_1/{person.txt,documentary.txt} comp_2
 14) cp comp_1/{global_data.txt, students.json} comp_3
-15) find -name workers.json !!!!
+15) find -name workers.json
 16) grep "Alex" workers.json
 17) head -n 5 workers.json
 18) tail -n 6 workers.json
